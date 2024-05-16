@@ -10,7 +10,7 @@ packages = [{include = "prac_django"}]
 python = "^3.10"
 django = "^4.2"
 python-dotenv = "^1.0.0"
-pillow = "^9.5.0"
+pillow = "^10.3.0"
 
 
 [build-system]
